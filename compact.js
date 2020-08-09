@@ -15,4 +15,4 @@ alert( 'Hello, world! from Jerry changes' );
 alert( 'Hello, world! from Jerry changes' );
 alert( 'Hello, world! from Jerry changes' );
 alert( 'Hello, world! from Jerry changes' );
-Master Branch change
+alert( 'My Master Branch change' );
