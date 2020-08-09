@@ -15,6 +15,3 @@ alert( 'Hello, world! from Jerry changes' );
 alert( 'Hello, world! from Jerry changes' );
 alert( 'Hello, world! from Jerry changes' );
 alert( 'Hello, world! from Jerry changes' );
-Hello This is Masoom Shaikh 
-Hello This is test file
-
